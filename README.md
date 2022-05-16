@@ -5,7 +5,7 @@ Autor del codigo Medinaa#7364
 
 
 
-
+Configurable si quieres que salga cuando tienes un 50% de comida bebida, vida, etc.. 
 
 
 
